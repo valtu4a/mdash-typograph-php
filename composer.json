@@ -1,14 +1,8 @@
 {
-    "name": "delfimov/mdash",
+    "name": "valtuchkevich/mdash",
     "description": "PHP версия типографа Муравьева",
     "keywords": ["типограф", "Муравьев", "typograph", "russian", "русский"],
     "license": "Public Domain",
-    "authors": [
-        {
-            "name": "Vitaly Baev",
-            "email": "ping@baev.dev"
-        }
-    ],
     "require": {},
     "autoload": {
         "psr-4": {
